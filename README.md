@@ -65,12 +65,13 @@ magic-pen/
 
 ## 📸 Demo Screenshot / Video
 
-**Screenshot**
-![Demo Screenshot](images/demo_screenshot.jpg)
+### Screenshot
 
-**Video**
-[Watch Demo Video](media/demo_video.mp4)
+![Magicpen Screenshot](https://github.com/CodeByHarini/Magic-Pen/blob/main/Magic%20pen%20Output.jpg)
 
+### Video
+
+[![Watch Video](assets/chatbot_demo_thumbnail.png)](https://github.com/CodeByHarini/Magic-Pen/blob/main/Magic%20pen%20demo%20.mp4)
 
 ## 🧑‍💻 Technologies & Libraries
 
